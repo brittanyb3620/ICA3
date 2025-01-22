@@ -1,0 +1,55 @@
+
+
+
+body{
+    background-color:rgb(255, 255, 255);
+color:rgb(176, 1, 1);
+font-family:'Times New Roman', Times, serif;
+font-size:17px ;
+}
+section > p,
+section > blockquote {
+    line-height: 1.5;
+
+}
+
+#best-movie{
+    font-style: italic;
+    color: black;
+}
+#best-part{
+    font-weight: 900;
+    color: black;
+}
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 35px;
+    text-decoration: underline;
+    letter-spacing: .3em;
+    }
+
+#quote-section{
+    background-color: black;
+    width: 80%;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+#intro-section{
+    width: 80%;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+#info-section{
+    width: 80%;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+#info-section img{
+height: auto;
+max: width 50%;
+min-height: 150px;
+}
