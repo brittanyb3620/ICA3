@@ -1,0 +1,7 @@
+- Write Notes. Add a notes.txt file in the root folder. Write one paragraph each on your experience learning HTML, CSS, and Git thus far in the course.
+
+HTML 
+My experience learning HTMl so far in this course has been fun. I've already added skills on top of the skills that I gained in IS 201. I can tell that if I were to continue to spend time on my website, it would only get better and better and have cooler and cooler features. It's been fun to experiment and to try and enhance the website. 
+CSS
+My experience with CSS so far in the course has been rewarding. I like how many options I have with CSS. I know that 
+Git

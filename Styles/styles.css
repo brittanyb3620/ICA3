@@ -35,6 +35,7 @@ h1 {
     height: auto;
     margin-right: auto;
     margin-left: auto;
+
 }
 #intro-section{
     width: 80%;
@@ -52,4 +53,16 @@ h1 {
 height: auto;
 max: width 50%;
 min-height: 150px;
+box-shadow: 10px 5px 5px rgb(176, 1, 1);
+
+}
+#table{
+    width: 80%;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+#justtable{
+    border: groove 1em rgb(176, 1, 1);
+    border-radius: .5em;  
 }
